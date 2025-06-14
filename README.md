@@ -1,48 +1,25 @@
-# 👋 Hi, I'm Tuelo Joseph Ntshingane
+# 💫 About Me:
+👋 Hey there! Ready to see ideas come alive in the browser? Let's build something amazing! 🚀<br><br>I'm Tuelo Joseph Ntshingane, a passionate Front-End Developer with a keen eye for UI/UX design and a solid background in Statistics (BSc). I bring both analytical thinking and creative design into every project I take on.<br><br>🛠️ Tech Stack: HTML, CSS, JavaScript, R, SPSS, Excel, MATLAB<br>📐 UX/UI: Focused on clean design and intuitive user experiences<br>📊 Background: Bachelor’s Degree in Statistics<br>💡 Projects so far:<br><br>🔢 Two functional mobile/web calculators<br><br>🌐 Two responsive websites built from scratch<br><br><br>I'm always learning, building, and pushing to create better digital experiences. Whether it's a button click or a full layout, I love turning code into impact.<br><br>> "Design it. Code it. Ship it. Repeat."<br><br>📫 Let’s connect or collaborate — check out my work and feel free to reach out!<br>
 
-🎯 **Front-End Web Developer** | 📍 Gaborone, Botswana  
-🚀 Passionate about building responsive, user-friendly web interfaces
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tuelo Joseph Ntshingane) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Winter_2i) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Joseph Ntshingane ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@t_jay27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tjntshingane@gmail.com) 
 
-## 💻 About Me
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Josephntshingane &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Josephntshingane &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephntshingane &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm a front-end web developer with a solid background in statistics and a keen eye for design and functionality. I enjoy translating ideas into interactive digital experiences using modern web technologies. Whether it's building clean layouts or optimizing for performance, I'm all about delivering quality on the web.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Josephntshingane &theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** React.js, Tailwind CSS, Bootstrap
-- **Tools:** Git & GitHub, VS Code, Figma, Chrome DevTools
-- **Currently Learning:** APIs, TypeScript, and more advanced React patterns
-
----
-
-## 🔧 Projects
-
-Check out some of my projects:
-- ✏️ **Mobile Calculator** – Simple and responsive calculator built with HTML, CSS & JavaScript
-- 📅 **To-Do App** – A task manager with dynamic DOM manipulation
-- 📰 **News Portal** – Fetches and displays news from an external API (coming soon)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Josephntshingane &icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 Goals
-
-- Become proficient in full-stack web development  
-- Contribute to open-source projects  
-- Collaborate with other developers and designers
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: tjntshingane@gmail.com  
-- 🌐 LinkedIn: [Joseph Ntshingane](https://www.linkedin.com/in/josephntshingane)  
-- 🌍 Portfolio: *(Coming soon!)*
-
----
-
-Thanks for stopping by! Feel free to explore my repositories and drop a ⭐ if you like something.
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Paypal.me/TJNtshingane95 ) 
